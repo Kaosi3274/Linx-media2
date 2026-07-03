@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://linxmedia.ng/sitemap.xml
+
+
+
